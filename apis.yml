@@ -1,8 +1,27 @@
 aid: conundrum
 name: Conundrum
-description: Conundrum is a company surfaced as a portfolio company of speedinvest and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Conundrum (Conundrum Industrial Ltd, Cambridge, UK) is an industrial AI company building AI-driven,
+  closed-loop advanced process control (APC) and model predictive control (MPC) software for the metals,
+  mining, and cement industries. Its platform combines physics-informed and machine-learning models with
+  real-time controllers, optimizers, data-quality tooling, interactive process-flow diagrams, drag-and-drop
+  dashboards, and a Python SDK for building configurable runtime applications. Conundrum optimizes crushing,
+  grinding, flotation, and cement processes to raise throughput and metal recovery while reducing energy
+  consumption, deployed on-premises or in the cloud across plants running 24/7. The company is backed by
+  Speedinvest and reports deployments across multiple plants in several countries.
 url: https://raw.githubusercontent.com/api-evangelist/conundrum/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://conundrum.ai/assets/images/6641dae74955799075f3b3b7_Conundrum_Website_OG_1200x628.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +30,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Artificial Intelligence
+- Industrial
+- Metals and Mining
+- Process Control
+- Model Predictive Control
+- Machine Learning
+- Manufacturing
+- Optimization
+- Cement
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,18 @@ maintainers:
 common:
 - type: Website
   url: https://conundrum.ai
+- type: CaseStudies
+  url: https://conundrum.ai/case-studies/
+- type: Support
+  url: https://conundrum.ai/#contact-us
+- type: LinkedIn
+  url: https://www.linkedin.com/company/conundrumai
+- type: LLMsTxt
+  url: llms/conundrum-llms.txt
+- type: DomainSecurity
+  url: security/conundrum-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

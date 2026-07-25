@@ -1,0 +1,14 @@
+# Conundrum
+
+> Conundrum develops AI-driven, closed-loop advanced process control software for metals, mining, and cement plants.
+
+## Primary pages
+
+- [Conundrum platform](https://conundrum.ai/): Product overview, deployment options, supported processes, and measured operational footprint.
+- [Industrial AI case studies](https://conundrum.ai/case-studies/): Index of published process-control results.
+- [Flotation — reducing reagent dosage](https://conundrum.ai/case-studies/flotation-reducing-reagent-dosage): Mean reagent feed rate reduced from 20.22 to 19.67 grams per ton of ore.
+- [Stabilizing SAG mill energy consumption](https://conundrum.ai/case-studies/stabilizing-energy-consumption-of-the-sag-mill): Power standard deviation reduced from 246 kW to 128 kW.
+
+## Product scope
+
+Conundrum applies adaptive process models and real-time control to crushing, grinding, flotation, and cement production. The platform supports on-premises and cloud deployment. Refer to the linked pages for the complete context and limitations of each published result.
