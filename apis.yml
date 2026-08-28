@@ -10,6 +10,17 @@ description: >-
   consumption, deployed on-premises or in the cloud across plants running 24/7. The company is backed by
   Speedinvest and reports deployments across multiple plants in several countries.
 url: https://raw.githubusercontent.com/api-evangelist/conundrum/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
